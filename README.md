@@ -66,7 +66,7 @@ RamsayAI is a smart, AI-powered meal planner that revolutionizes how you think a
   - Image analysis and food recognition
   - Recipe generation and meal suggestions
   - Natural language processing for search
-- **MongoDB** - NoSQL database for storing:
+- **PostgreSQL**
   - User preferences and meal history
   - Recipe data and nutritional information
   - Ingredient database and categories
